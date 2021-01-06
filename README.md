@@ -1,2 +1,4 @@
-# anarchyworks
-2021 update to anarchy.works
+# anarchy.works
+[anarchy.works](http://anarchy.works) is a website I have originally thrown together to serve as a quick reference to common anarchist concepts a few years ago, and as an introduction to anarchy for those new to it. I decided to revisit the website, writing up some quick CSS and a redesign of the root site to make it more accessible and welcoming than the previous version, which was essentially an HTML-formatted version of Peter Gelderloos' book. I also included a link to the latest version of the Anarchist FAQ, which is essentially one the largest anarchist literature I personally know of.
+
+**Pull requests are always welcome!** If you think you can significantly improve the website, then submit changes and I'll take a look at them. If they're good enough in my own personal opinion, I'll include them in the official website.
